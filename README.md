@@ -1,4 +1,4 @@
-# Arduino_Detector_Infrarrojos
+# Arduino, Detector por infrarrojos
 # Proyecto de Radar con Servo y Sensor Infrarrojo
 
 Este proyecto utiliza un sensor infrarrojo (IR) para medir la distancia de objetos en el entorno y un servo para girar el sensor de izquierda a derecha en un rango de 180 grados. Dependiendo de la distancia medida, se emite un sonido a través de un buzzer. Los datos de ángulo y distancia se envían al monitor serie para su visualización.

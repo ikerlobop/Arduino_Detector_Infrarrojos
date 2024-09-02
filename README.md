@@ -5,7 +5,7 @@ Este proyecto utiliza un sensor infrarrojo (IR) para medir la distancia de objet
 
 ## Componentes necesarios
 
-- Arduino Uno o similar
+- Arduino Uno o similar( Nosotros utilizamos Arduino Mega 2560)
 - Servo motor
 - Sensor de distancia infrarrojo (IR)
 - Buzzer

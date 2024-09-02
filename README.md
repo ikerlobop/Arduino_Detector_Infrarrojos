@@ -69,4 +69,4 @@ Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar u
 
 ## Créditos
 
-Este proyecto fue desarrollado por [Iker Lobo](https://github.com/ikerlobop) y la colaboración de Lander Agustín, como una demostración de cómo usar un sensor IR, un servo y un buzzer con Arduino.
+Este proyecto fue desarrollado por [Iker Lobo](https://github.com/ikerlobop) con la colaboración de Lander Agustín, como una demostración de cómo usar un sensor IR, un servo y un buzzer con Arduino, para la asignatura de Sistemas de medida y regulación, impartida por Ander Duque.

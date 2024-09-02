@@ -3,6 +3,9 @@
 
 Este proyecto utiliza un sensor infrarrojo (IR) para medir la distancia de objetos en el entorno y un servo para girar el sensor de izquierda a derecha en un rango de 180 grados. Dependiendo de la distancia medida, se emite un sonido a través de un buzzer. Los datos de ángulo y distancia se envían al monitor serie para su visualización.
 
+![Radar](radar.jpg)
+
+
 ## Componentes necesarios
 
 - Arduino Uno o similar( Nosotros utilizamos Arduino Mega 2560)
@@ -52,6 +55,8 @@ Este archivo es un sketch de Processing que permite visualizar los datos de áng
 - En el **`draw()`**, se actualiza la visualización del radar, las líneas de ángulo, los objetos detectados y el texto basado en los datos recibidos.
 - **Funciones de dibujo** como `drawRadar()`, `drawObject()`, `drawLine()`, y `drawText()` se encargan de dibujar el radar y los objetos en pantalla.
 - **`serialEvent()`** procesa los datos recibidos del Arduino para actualizar las visualizaciones en Processing.
+  ![Pantalla](pantalla.jpg)
+
 
 ## Ejecución
 
